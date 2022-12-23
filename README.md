@@ -67,3 +67,4 @@ This repository contains the latest RotMG Valor hacks and hacked client. If you 
 ## Credits
 - [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler/releases) for reverse engineering and modifying the client. 
 - This project is inspired by [KRelay](https://github.com/TheKronks/KRelay), an open source proxy for production RotMG.
+- This project is a fork from the man who made it [Swrlly](https://github.com/swrlly). Please go and follow him, great guy with a great mind. I will try to update it and fix it as much as I can, [me](https://discord.gg/PAxYsK9Q7B).
