@@ -9,10 +9,10 @@ A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private se
 
 # Table of Contents
 - [How to update vrelay?](https://github.com/dAtiuyy/vrelay#how-to-update-vrelay)
-- [How to use vrelay?](https://github.com/swrlly/vrelay#how-to-use-vrelay)
-- [Features](https://github.com/swrlly/vrelay#features)
-- [Disclaimer](https://github.com/swrlly/vrelay#disclaimer)
-- [Credits](https://github.com/swrlly/vrelay#credits)
+- [How to use vrelay?](https://github.com/dAtiuyy/vrelay#how-to-use-vrelay)
+- [Features](https://github.com/dAtiuyy/vrelay#features)
+- [Disclaimer](https://github.com/dAtiuyy/vrelay#disclaimer)
+- [Credits](https://github.com/dAtiuyy/vrelay#credits)
 
 
 ## How to update vrelay?
