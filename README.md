@@ -7,6 +7,11 @@ A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private se
   <img src="images/vrelay.png" />
 </p>
 
+## TODO
+1. Fix the darn thing
+2. Maintain it, improve it and add further plugins like auto-loot and auto-open boxes.
+3. Implement panda.concat as it wants me to, [click me](https://github.com/dAtiuyy/vrelay/images/image.png)
+
 # Table of Contents
 - [How to update vrelay?](https://github.com/dAtiuyy/vrelay#how-to-update-vrelay)
 - [How to use vrelay?](https://github.com/dAtiuyy/vrelay#how-to-use-vrelay)
