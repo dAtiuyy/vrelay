@@ -10,7 +10,11 @@ A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private se
 ## TODO
 1. Fix the darn thing
 2. Maintain it, improve it and add further plugins like auto-loot and auto-open boxes.
-3. Implement panda.concat as it wants me to, [click me](https://github.com/dAtiuyy/vrelay/blob/main/images/image.png)
+3. Implement panda.concat as it wants me to, 
+<p align="center">
+  <img src="images/image.png" />
+</p>
+4. I could just rewrite the whole thing incase I cant figure out what is the actual problem. 
 
 # Table of Contents
 - [How to update vrelay?](https://github.com/dAtiuyy/vrelay#how-to-update-vrelay)
