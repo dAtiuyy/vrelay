@@ -29,7 +29,7 @@ A man-in-the-middle proxy server for the Realm of the Mad God (RotMG) private se
 
 ## How to use `vrelay`?
 
-1. Install Python [64-bit](https://www.python.org/downloads/).
+1. Install Python 3.8.x [64-bit](https://www.python.org/downloads/).
 2. `git clone --recurse-submodules https://github.com/dAtiuyy/vrelay.git`
 3. `py -m pip install -r requirements.txt`
 4. `py proxy.py` to start the proxy server.
